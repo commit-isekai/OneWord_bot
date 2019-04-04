@@ -6,7 +6,7 @@ from discord.utils import get
 from itertools import cycle
 
 Bot = commands.Bot(command_prefix='&')
-TOKEN = 'NTQ0NDYxMzA2MjA0MjU4MzA0.D1Wtww.CAVWc4wjCLp_hba-nJauh-jFgSE'
+TOKEN = 'INSERT TOKEN HERE'
 
 Bot.remove_command('help')
 
